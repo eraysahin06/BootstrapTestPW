@@ -1,0 +1,15 @@
+li a:hover {
+    background-color: #262626;
+}
+
+
+body {
+    background-color: #e9ecef;
+}
+
+footer {
+    position: fixed;
+    height: 100px;
+    bottom: 0;
+    width: 100%;
+}
